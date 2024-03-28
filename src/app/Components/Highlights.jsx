@@ -1,7 +1,7 @@
 export default function Highlights() {
   return (
     <>
-      <div className="max-w-[350px] top-0 right-0 absolute font-[Roboto] py-6 bg-white shadow-[0px_2px_8px_#1a38750d] px-4 border-2">
+      <div className="max-w-[350px] h-full top-0 right-0 absolute font-[Roboto] py-6 bg-white shadow-[0px_2px_8px_#1a38750d] px-4 border-2">
         <p className="bg-transparent font-semibold font-[Roboto]">
           Todays Highlights (14)
         </p>

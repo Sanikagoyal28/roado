@@ -8,9 +8,11 @@ import AlertCard from "./Components/AlertCard";
 import Highlights from "./Components/Highlights";
 import Sidebar from "./Components/Sidebar";
 import Task1 from "./Components/task1";
+import Task2 from "./Components/task2";
 
 export default function Dashboard() {
   Task1();
+  Task2();
 
   return (
     <>
@@ -131,6 +133,3 @@ export default function Dashboard() {
   );
 }
 
-// height issue
-// host
-// task 2 

@@ -76,7 +76,6 @@ export default function Task1() {
 
       // convert month to date
       const monthDate = new Date(yearNumber, monthNumber - 1);
-      console.log(monthDate);
 
       // if the month is before or equal to the targetDate
       if (monthDate <= targetDate) {
